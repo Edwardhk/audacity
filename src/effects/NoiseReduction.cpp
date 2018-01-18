@@ -45,9 +45,9 @@
 
 #include "../ShuttleGui.h"
 #include "../widgets/HelpSystem.h"
-#include "FFT.h"
-#include "Prefs.h"
-#include "RealFFTf.h"
+#include "./FFT.h"
+#include "./Prefs.h"
+#include "./RealFFTf.h"
 #include "../SpectrumTransformer.h"
 
 #include "../WaveTrack.h"
